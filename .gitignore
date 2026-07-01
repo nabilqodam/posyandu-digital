@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Environment
+.env
+
+# Dependencies
+node_modules/
+
+# Build
+dist/
+
+# Logs
+*.log
+
+# ZIP
+*.zip
